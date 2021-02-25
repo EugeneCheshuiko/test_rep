@@ -1,0 +1,34 @@
+commit 9dd642e0e7f946148f4f77b0c68bac1334c083e8
+Merge: c30a49d 7bacdde
+Author: EugeneCheshuiko <eugene.cheshuiko@gmail.com>
+Date:   Thu Feb 25 13:31:11 2021 +0000
+
+    issues
+
+commit c30a49d9f7a5ad949fb8047e6aa48ca33498de0c
+Author: EugeneCheshuiko <eugene.cheshuiko@gmail.com>
+Date:   Thu Feb 25 12:33:33 2021 +0000
+
+    Add point 8
+
+commit 7bacdde1ef631b677afb1228776db2d2420fe0e1
+Author: EugeneCheshuiko <78349529+EugeneCheshuiko@users.noreply.github.com>
+Date:   Thu Feb 25 15:30:42 2021 +0300
+
+    Add point 7
+    
+    Add point 7 from HW9
+
+commit a15d58891ac79315859cf3ff467f93a1d40deb00
+Author: EugeneCheshuiko <78349529+EugeneCheshuiko@users.noreply.github.com>
+Date:   Thu Feb 25 15:24:10 2021 +0300
+
+    Add time
+    
+    Add lesson time
+
+commit 8c11b2a63a8ca52ca1d2258d8eea6d1502a93d1b
+Author: EugeneCheshuiko <eugene.cheshuiko@gmail.com>
+Date:   Thu Feb 25 12:18:17 2021 +0000
+
+    push into remote test_rep
